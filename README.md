@@ -4,7 +4,7 @@ https://dacon.io/competitions/official/236006/overview/description
   - 주제 : 예술 작품을 화가 별로 분류하는 AI 모델 개발
   - Task : Image Classification
   - 기간 : 2022.10.04 ~ 2022.11.14
-  - 결과 : 5등 / 215
+  - 결과 : 5등 / 215 => 수상
 <!--  Other options to write Readme
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
