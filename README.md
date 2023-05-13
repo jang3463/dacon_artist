@@ -19,7 +19,7 @@ https://dacon.io/competitions/official/236006/overview/description
 - 본 과제의 특징은 테스트 데이터 셋은 예술작품(이미지)의 일부분(약1/4)만을 제공하기 때문에 train과 test 사이의 domain gap 발생
 - 이를 해결 하기 위해서 train시에 이미지를 가로,세로를 1/2 비율로 Random Crop하도록 augmentation 진행
 - 추가적으로 Overfitting을 방지하고 데이터 diversity를 늘리기 위해서, CutMix, CutOut과 같은 data augmentation 기법 적용
-- 모델로는 CNN과 Transformer를 결합 ConvNext_Large 모델 사용
+- 모델로는 CNN과 Transformer를 결합한 ConvNext_Large 모델 사용
 - 최종적으로 F1-score 0.85487 달성
 
 ## 4. 한계점
