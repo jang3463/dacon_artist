@@ -12,7 +12,7 @@ https://dacon.io/competitions/official/236006/overview/description
 ## 2. 데이터셋 설명
 <!--Wirte one paragraph of project description -->  
 - train.csv : 학습 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지) 제공 (5911개)
-- test.csv : 테스터 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지)의 **일부분만 제공** (12670)
+- test.csv : 테스터 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지)의 **일부분만 제공** (12670개)
 
 ## 3. 수행방법
 <!-- Write Overview about this project -->
