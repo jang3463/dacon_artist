@@ -14,6 +14,8 @@ https://dacon.io/competitions/official/236006/overview/description
 - train.csv : 학습 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지) 제공 (5911개)
 - test.csv : 테스터 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지)의 **일부분만 제공** (12670개)
 
+![0000](https://github.com/jang3463/dacon_artist/assets/70848146/f188aadf-24e9-4c1f-830d-05d689919ff4)
+
 ## 3. 수행방법
 <!-- Write Overview about this project -->
 - 본 과제의 특징은 테스트 데이터 셋은 예술작품(이미지)의 일부분(약1/4)만을 제공하기 때문에 train과 test 사이의 domain gap 발생
