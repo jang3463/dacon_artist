@@ -13,6 +13,8 @@ https://dacon.io/competitions/official/236006/overview/description
 <!--Wirte one paragraph of project description -->  
 - train.csv : 학습 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지) 제공 (5911개)
 - test.csv : 테스터 데이터셋은 대표적인 화가 50명에 대한 예술 작품(이미지)의 **일부분만 제공** (12670개)
+![0000 png](https://github.com/jang3463/dacon_artist/assets/70848146/47866fd0-63a3-4e1f-9b70-c9cc8802c031)
+
 
 ## 3. 수행방법
 <!-- Write Overview about this project -->
@@ -21,8 +23,6 @@ https://dacon.io/competitions/official/236006/overview/description
 - 추가적으로 Overfitting을 방지하고 데이터 diversity를 늘리기 위해서, CutMix, CutOut과 같은 data augmentation 기법 적용
 - 모델로는 CNN과 Transformer를 결합한 ConvNext_Large 모델 사용
 - 최종적으로 F1-score 0.85487 달성
-
-![0000 png](https://github.com/jang3463/dacon_artist/assets/70848146/47866fd0-63a3-4e1f-9b70-c9cc8802c031)
 
 ## 4. 한계점
 <!-- Write Overview about this project -->
